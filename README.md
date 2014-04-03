@@ -1,4 +1,4 @@
 admin.remotehome.biz
 ====================
 
-Administration Web site
+Administration website
